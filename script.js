@@ -15,3 +15,4 @@ newArray = [...newArray, ...array2.slice(array1.length)]
 
 console.log(newArray)
 
+console.log("aggiunte2")
