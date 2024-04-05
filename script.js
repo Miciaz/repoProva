@@ -1,3 +1,6 @@
+
+console.log("Queste sono le mie modifiche")
+
 const array1 = [1 ,3 , 6, 5, 8, 10]
 const array2 = [4, 11, 23, 7, 9]
 
@@ -14,3 +17,4 @@ for (let i = 0; i < array1.length; i++) {
 newArray = [...newArray, ...array2.slice(array1.length)]
 
 console.log(newArray)
+
